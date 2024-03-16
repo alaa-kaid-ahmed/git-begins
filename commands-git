@@ -7,3 +7,5 @@ Les 3 commandes de push:
 1. git push <nom_remote> <nom_branche>
 2. git push -u <nom_remote> <nom_branche>
 3. git push --all <nom_remote>
+Commande de pull:
+git pull <nom_remote> <nom_branche>
