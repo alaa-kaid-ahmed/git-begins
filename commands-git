@@ -9,3 +9,7 @@ Les 3 commandes de push:
 3. git push --all <nom_remote>
 Commande de pull:
 git pull <nom_remote> <nom_branche>
+
+Commandes pour créer et basculer sur une branche:
+1. Créer une nouvelle branche: git checkout -b <nom_branche>
+2. Basculer sur une branche existante: git checkout <nom_branche>
